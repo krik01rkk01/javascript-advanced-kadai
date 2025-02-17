@@ -108,7 +108,7 @@ const gameOver = id => {
      if (result) {
      window.location.reload();
   }
-  }, 1000);
+  }, 10);
  
 };
 
